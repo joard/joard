@@ -11,5 +11,5 @@ int list_init(List *list)
 
 int list_ins_next(List *list,ListElement *element,void *data)
 {
-	
+	ListElement * temp_elem;
 }
